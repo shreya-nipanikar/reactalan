@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactalan/static/css/main.8d1f7204.chunk.css",
-    "main.js": "/reactalan/static/js/main.e403f327.chunk.js",
-    "main.js.map": "/reactalan/static/js/main.e403f327.chunk.js.map",
+    "main.js": "/reactalan/static/js/main.bf4edd92.chunk.js",
+    "main.js.map": "/reactalan/static/js/main.bf4edd92.chunk.js.map",
     "runtime-main.js": "/reactalan/static/js/runtime-main.cd996906.js",
     "runtime-main.js.map": "/reactalan/static/js/runtime-main.cd996906.js.map",
     "static/css/2.61b4cb56.chunk.css": "/reactalan/static/css/2.61b4cb56.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.be9e1a2e.chunk.js",
     "static/css/main.8d1f7204.chunk.css",
-    "static/js/main.e403f327.chunk.js"
+    "static/js/main.bf4edd92.chunk.js"
   ]
 }
