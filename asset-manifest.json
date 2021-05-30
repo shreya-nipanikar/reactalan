@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactalan/static/css/main.8d1f7204.chunk.css",
+    "main.js": "/reactalan/static/js/main.e403f327.chunk.js",
+    "main.js.map": "/reactalan/static/js/main.e403f327.chunk.js.map",
+    "runtime-main.js": "/reactalan/static/js/runtime-main.cd996906.js",
+    "runtime-main.js.map": "/reactalan/static/js/runtime-main.cd996906.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactalan/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.be9e1a2e.chunk.js": "/reactalan/static/js/2.be9e1a2e.chunk.js",
+    "static/js/2.be9e1a2e.chunk.js.map": "/reactalan/static/js/2.be9e1a2e.chunk.js.map",
+    "static/js/3.77d14dd9.chunk.js": "/reactalan/static/js/3.77d14dd9.chunk.js",
+    "static/js/3.77d14dd9.chunk.js.map": "/reactalan/static/js/3.77d14dd9.chunk.js.map",
+    "index.html": "/reactalan/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactalan/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.8d1f7204.chunk.css.map": "/reactalan/static/css/main.8d1f7204.chunk.css.map",
+    "static/js/2.be9e1a2e.chunk.js.LICENSE.txt": "/reactalan/static/js/2.be9e1a2e.chunk.js.LICENSE.txt",
+    "static/media/burger.c1f9a96d.jpg": "/reactalan/static/media/burger.c1f9a96d.jpg",
+    "static/media/lasagna.bfd62669.jpg": "/reactalan/static/media/lasagna.bfd62669.jpg",
+    "static/media/maggi.49952444.jpg": "/reactalan/static/media/maggi.49952444.jpg",
+    "static/media/pasta.67380e55.jpg": "/reactalan/static/media/pasta.67380e55.jpg",
+    "static/media/pizza.9bb0f762.jpg": "/reactalan/static/media/pizza.9bb0f762.jpg",
+    "static/media/tomato.14a3b39b.jpg": "/reactalan/static/media/tomato.14a3b39b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd996906.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.be9e1a2e.chunk.js",
+    "static/css/main.8d1f7204.chunk.css",
+    "static/js/main.e403f327.chunk.js"
+  ]
+}
